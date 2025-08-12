@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="lyzr-logo-main.jpeg" alt="Lyzr AI Logo" width="200" height="80" />
+  <img src="public/images/lyzr-logo-main.jpeg" alt="Lyzr Logo" width="120" height="120" style="border-radius: 15px; margin-bottom: 20px;">
   
   # 🎯 Culture Fit Assessment Platform
   
