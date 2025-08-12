@@ -162,6 +162,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://lyzr.ai" target="_blank">
+      <img scr="https://img.shields.io/badge/Lyzr-100000?style=for-the-badge&logo=lyzr&logoColor=black" alt="Lyzr" />
+    </a>
   </p>
   
   <p>
